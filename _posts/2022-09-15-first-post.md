@@ -5,6 +5,7 @@ category: meta
 tags: meta discussion
 ---
 {% include google-analytics.html %}
+{% include google-ads.html %}
 
 
 # How to Use The 2 Minute Codes?
